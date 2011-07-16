@@ -3,9 +3,9 @@ watchr-phpunit
 
 Watchr configuration for PHPUnit and Growl.
 
-Autotesting simplicity using PHPUnit and watchr.
+Continuous testing simplicity using PHPUnit and watchr.
 
-Integrates [watchr](https://github.com/mynyml/watchr) with phpunit and [Growl](http://growl.info).
+Integrates [watchr](https://github.com/mynyml/watchr) with PHPUnit and [Growl](http://growl.info).
 
 Installation and Usage
 ======================
@@ -19,3 +19,5 @@ This configuration assumes all tests are contained in a 'Test' directory at the 
 Now fire up a new console/terminal session, cd into your project directory and run:
 
     `watchr watchr.rb`
+
+For more information (and more complete instructions), see [Autotesting with watchr, growl and PHPUnit](http://criticallog.thornet.net/2011/03/08/autotesting-with-watchr-growl-and-phpunit/).
